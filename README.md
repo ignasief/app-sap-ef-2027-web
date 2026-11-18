@@ -1,2 +1,3 @@
-# app-sap-ef-2027-web
-Editor web de situaciones de aprendizaje de Educación Física
+# APP SAP EF 2027 - WEB PÚBLICA
+
+Esta versión no incluye plantillas privadas. Cargar archivos JSON únicamente en el navegador.
